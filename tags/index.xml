@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on NavPage Insiders</title>
+    <link>https://bioit.top/tags/</link>
+    <description>Recent content in Tags on NavPage Insiders</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 14 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bioit.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogdown</title>
+      <link>https://bioit.top/tags/blogdown/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bioit.top/tags/blogdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://bioit.top/tags/Markdown/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bioit.top/tags/Markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MathJax</title>
+      <link>https://bioit.top/tags/MathJax/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bioit.top/tags/MathJax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pandoc</title>
+      <link>https://bioit.top/tags/Pandoc/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bioit.top/tags/Pandoc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RStudio</title>
+      <link>https://bioit.top/tags/RStudio/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bioit.top/tags/RStudio/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

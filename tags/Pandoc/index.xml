@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pandoc on NavPage Insiders</title>
+    <link>https://bioit.top/tags/Pandoc/</link>
+    <description>Recent content in Pandoc on NavPage Insiders</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 14 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bioit.top/tags/Pandoc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>https://bioit.top/posts/2017-02-14-hello-markdown/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://bioit.top/posts/2017-02-14-hello-markdown/</guid>
+      <description>&lt;p&gt;This sample post is mainly for &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; users. If you do not use &lt;strong&gt;blogdown&lt;/strong&gt;, you can skip the first section. To know more about the Hugo XMag theme, please read the &lt;a href=&#34;https://bioit.top/about/&#34;&gt;About&lt;/a&gt; page.&lt;/p&gt;&#xA;&lt;h1 id=&#34;1-markdown-or-r-markdown&#34;&gt;1. Markdown or R Markdown&lt;/h1&gt;&#xA;&lt;p&gt;This is a post written in plain Markdown (&lt;code&gt;*.md&lt;/code&gt;) instead of R Markdown (&lt;code&gt;*.Rmd&lt;/code&gt;). The major differences are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (&lt;code&gt;```{r}&lt;/code&gt;);&lt;/li&gt;&#xA;&lt;li&gt;A plain Markdown post is rendered through &lt;a href=&#34;https://gohugo.io/overview/configuration/&#34;&gt;Blackfriday&lt;/a&gt;, and an R Markdown document is compiled by &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;&lt;strong&gt;rmarkdown&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;http://pandoc.org&#34;&gt;Pandoc&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown. For example, you can write a task list with Blackfriday but not with Pandoc:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
