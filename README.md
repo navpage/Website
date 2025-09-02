@@ -17,3 +17,6 @@
 ### 讨论与建议
 
 任何问题与建议，欢迎移步 [Discussions](https://github.com/orgs/NavPage/discussions)，参与讨论。
+
+
+<!-- Security scan triggered at 2025-09-02 14:23:26 -->
